@@ -13,5 +13,5 @@ SPIS DOKUMENTÓW
 3. Raport końcowy - praca grupowa. Wkład - treść, dane i format były tworzone wspólnie przez 5 osób z grupy.
 4. Backlog wymagania biznesowa - dokument, na podstawie którego tworzona była dokumentacja
 5. Poziomy, techniki i rodzaje testów - praca indywidualna (dot. testów zastosowanych w ramach wewnętrznego projektu profilize.me)
-6. Lista błędów Wersja 6 - praca grupowa, raport z programu Jira.
+6. Błędy Jira - lista wykrytych błędów, praca grupowa, raport z programu Jira.
 7. Test eksploracyjny 60 min wraz z opisem 4 wykrytych błędów - praca indywidualna (dot. testów na aplikacji wordreference.com)
